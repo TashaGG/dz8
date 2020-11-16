@@ -32,4 +32,4 @@ create table PRODUCT_CHECK
     FOREIGN KEY (ID_PRODUCT) REFERENCES PRODUCT(ID),
 );
 
--- Hello from test branch
+-- Hello from test branch for merge
