@@ -1,3 +1,5 @@
+-- edit from local
+
 create table CUSTOMERS
 (
     ID NUMBER(4) PRIMARY KEY,
