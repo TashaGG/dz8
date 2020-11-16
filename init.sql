@@ -36,4 +36,4 @@ create table PRODUCT_CHECK
     FOREIGN KEY (ID_PRODUCT) REFERENCES PRODUCT(ID),
 );
 
--- edit from githab 2
+-- Hello from test branch for merge
